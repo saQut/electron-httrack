@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# for electron cache and profiles
+System/profile
